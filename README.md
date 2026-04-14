@@ -1,7 +1,9 @@
 # Slope-Manager-for-F3fTool
 
-******* Sites Manager version 2 ******
-*******  Par Frédéric MONFORTE  ******
+Sites Manager version 2
+Par Frédéric MONFORTE 
+
+
 
 
 Dans la carte SD de l'émetteur:
