@@ -11,6 +11,7 @@ Dans la carte SD de l'émetteur:
 Aller dans: Apps/F3fTool-xxx
 
 Y placer ou créer le fichier "index.jsn"
+
 Y placer ou créer le dossier "sites"
 
 Aller dans: Apps
