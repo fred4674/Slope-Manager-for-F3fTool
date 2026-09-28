@@ -46,5 +46,6 @@ Pour assigner ce point de pilotage au site de vol, allez dans Site Manager, cliq
 
 ATTENTION:
 Pour que le chargement du site de vol soit effectif dans F3fTool, vous devez redémarrer l'émetteur.
-Pour la version à écran monochrome, l'app doit être installée dans une mémoire modèle dédiée à ça, par ex "SITE MANAGER".
+
+Pour la version à écran monochrome, l'app doit être installée dans une mémoire modèle dédiée à ça, par ex "SLOPE MANAGER".
 
