@@ -9,11 +9,11 @@ Par Frédéric MONFORTE
 Dans la carte SD de l'émetteur:
 
 Aller dans: Apps/F3fTool-xxx
-
 Y placer ou créer le fichier "index.jsn"
 Y placer ou créer le dossier "sites"
 
-Placer dans Apps le fichier "Manager-2.lc"
+Aller dans: Apps
+Y placer le fichier "Manager-2.lc"
 
 Lors de la première ouverture de l'application, définir la version de F3fTool (si V1.41, saisir 141)
 La version sera conservée en mémoire.
