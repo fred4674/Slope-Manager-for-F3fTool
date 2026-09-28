@@ -27,6 +27,7 @@ LOAD charge dans l'application la dernière pente utilisée dans F3fTool, si ell
 Lui donner un nom puis cliquer sur SAVE, le site de vol sera sauvegardé en mémoire dans le dossier "sites", si nécessaire tous les champs peuvent être modifiés.
 
 A partir du menu de base, cliquer sur la ligne "Sélection Site" permet de choisir un site de vol précédement sauvegardé.
+
 EDIT permet d'éditer et modifier le site de vol sélectionné, si vous changez le nom un nouveau site de vol sera créé.
 Dans le cas d'un site F3f, l'orientation de pente (N-S-E-O) est définie dans le sens gauche => droite :
 Orientation 90°=> Nord, Orientation 270°=> Sud, Orientation 180°=> Est, Orientation 0° ou 360°=> Ouest.
