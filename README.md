@@ -36,6 +36,8 @@ Dans le cas d'un site F3b, l'orientation est définie de la base A => base B.
 
 ACTIV envoie le site de vol sélectionné dans l'application F3fTool.
 
+Un widget sur 1 ligne peut être affiché à l'écran et permet de visualiser la pente en cours d'utilisation et son orientation.
+
 
 INFO:
 Vous pouvez créer un site de vol en relevant l'orientation via Google Earth ou autre appli et laisser à 0 les champs "longitude" et "latitude", puis dans F3fTool, avec le planeur placé au niveau du point de pilotage, maintenez le Multi Switch 2s, la position sera ainsi relevée.
@@ -44,3 +46,5 @@ Pour assigner ce point de pilotage au site de vol, allez dans Site Manager, cliq
 
 ATTENTION:
 Pour que le chargement du site de vol soit effectif dans F3fTool, vous devez redémarrer l'émetteur.
+Pour la version à écran monochrome, l'app doit être installée dans une mémoire modèle dédiée à ça, par ex "SITE MANAGER".
+
